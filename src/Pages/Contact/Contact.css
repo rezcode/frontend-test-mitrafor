@@ -1,0 +1,15 @@
+.contact-img img {
+  width: 60%;
+  height: 100%;
+}
+
+.contact-title {
+  text-align: center;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+}
